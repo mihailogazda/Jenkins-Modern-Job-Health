@@ -8,6 +8,9 @@ Modernise your Jenkins UI with 21st century icons (current official icons are ar
 ## Install 
 Simply copy the CSS content from ModernIcons.css into your Jenkins/Configure System/Theme.
 
+Alternatively, you can just insert it as a CSS URL:
+https://mihailogazda.github.io/Jenkins-Modern-Job-Health/ModernIcons.css
+
 ## Inspired by 
 Good design practices, and other UI plugins like: 
 https://github.com/jenkinsci/modernstatus-plugin
